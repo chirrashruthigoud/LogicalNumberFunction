@@ -7,9 +7,9 @@
             //StopWatch.StopWatchProgram();
             //Coupon.CouponNumber();
             //PrimeNumber.CheckPrimeNumber();
-            // Reversenumber.CheckReversenumber();
+             Reversenumber.CheckReversenumber();
             //PerfectNumber.FindPerfectNumber();
-            Fibonacci.FindFibonacci();
+           // Fibonacci.FindFibonacci();
         }
     }
 }
