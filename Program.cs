@@ -4,8 +4,8 @@
     {
         public static void Main(String[] args)
         {
-            //StopWatch.StopWatchProgram();
-            Coupon.CouponNumber();
+            StopWatch.StopWatchProgram();
+            //Coupon.CouponNumber();
             //PrimeNumber.CheckPrimeNumber();
             // Reversenumber.CheckReversenumber();
             //PerfectNumber.FindPerfectNumber();
