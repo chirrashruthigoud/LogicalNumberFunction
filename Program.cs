@@ -4,12 +4,12 @@
     {
         public static void Main(String[] args)
         {
-            StopWatch.StopWatchProgram();
+            //StopWatch.StopWatchProgram();
             //Coupon.CouponNumber();
             //PrimeNumber.CheckPrimeNumber();
             // Reversenumber.CheckReversenumber();
             //PerfectNumber.FindPerfectNumber();
-            //Fibonacci.FindFibonacci();
+            Fibonacci.FindFibonacci();
         }
     }
 }
