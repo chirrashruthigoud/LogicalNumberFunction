@@ -6,9 +6,9 @@
         {
             //StopWatch.StopWatchProgram();
             //Coupon.CouponNumber();
-            //PrimeNumber.CheckPrimeNumber();
+            PrimeNumber.CheckPrimeNumber();
             // Reversenumber.CheckReversenumber();
-            PerfectNumber.FindPerfectNumber();
+            //PerfectNumber.FindPerfectNumber();
            // Fibonacci.FindFibonacci();
         }
     }
